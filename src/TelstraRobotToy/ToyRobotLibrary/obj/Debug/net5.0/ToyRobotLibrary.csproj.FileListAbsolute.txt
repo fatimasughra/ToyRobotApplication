@@ -1,0 +1,15 @@
+D:\Projects\TelstraPurpleHiring\src\TelstraRobotToy\ToyRobotLibrary\obj\Debug\net5.0\ToyRobotLibrary.csproj.AssemblyReference.cache
+D:\Projects\TelstraPurpleHiring\src\TelstraRobotToy\ToyRobotLibrary\obj\Debug\net5.0\ToyRobotLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\TelstraPurpleHiring\src\TelstraRobotToy\ToyRobotLibrary\obj\Debug\net5.0\ToyRobotLibrary.AssemblyInfoInputs.cache
+D:\Projects\TelstraPurpleHiring\src\TelstraRobotToy\ToyRobotLibrary\obj\Debug\net5.0\ToyRobotLibrary.AssemblyInfo.cs
+D:\Projects\TelstraPurpleHiring\src\TelstraRobotToy\ToyRobotLibrary\obj\Debug\net5.0\ToyRobotLibrary.csproj.CoreCompileInputs.cache
+D:\Projects\TelstraPurpleHiring\src\TelstraRobotToy\ToyRobotLibrary\bin\Debug\net5.0\ToyRobotLibrary.deps.json
+D:\Projects\TelstraPurpleHiring\src\TelstraRobotToy\ToyRobotLibrary\bin\Debug\net5.0\ToyRobotLibrary.dll
+D:\Projects\TelstraPurpleHiring\src\TelstraRobotToy\ToyRobotLibrary\bin\Debug\net5.0\ref\ToyRobotLibrary.dll
+D:\Projects\TelstraPurpleHiring\src\TelstraRobotToy\ToyRobotLibrary\bin\Debug\net5.0\ToyRobotLibrary.pdb
+D:\Projects\TelstraPurpleHiring\src\TelstraRobotToy\ToyRobotLibrary\obj\Debug\net5.0\ToyRobotLibrary.dll
+D:\Projects\TelstraPurpleHiring\src\TelstraRobotToy\ToyRobotLibrary\obj\Debug\net5.0\ref\ToyRobotLibrary.dll
+D:\Projects\TelstraPurpleHiring\src\TelstraRobotToy\ToyRobotLibrary\obj\Debug\net5.0\ToyRobotLibrary.pdb
+D:\Projects\TelstraPurpleHiring\src\TelstraRobotToy\ToyRobotLibrary\bin\Debug\net5.0\ToyRobotLibrary.Interfaces.dll
+D:\Projects\TelstraPurpleHiring\src\TelstraRobotToy\ToyRobotLibrary\bin\Debug\net5.0\ToyRobotLibrary.Interfaces.pdb
+D:\Projects\TelstraPurpleHiring\src\TelstraRobotToy\ToyRobotLibrary\obj\Debug\net5.0\ToyRobotLibrary.csproj.CopyComplete

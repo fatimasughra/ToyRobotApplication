@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ToyRobotLibrary.Interfaces/1.0.0": {
+        "runtime": {
+          "ToyRobotLibrary.Interfaces.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ToyRobotLibrary.Interfaces/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
