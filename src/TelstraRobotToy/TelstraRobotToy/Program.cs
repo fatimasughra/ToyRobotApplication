@@ -15,7 +15,7 @@ namespace TelstraRobotToy
             string inputCommand;
             do
             {
-
+                
                 inputCommand = Console.ReadLine();
 
                 if (inputCommand == "STOP")
