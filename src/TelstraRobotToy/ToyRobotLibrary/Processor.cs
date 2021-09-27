@@ -16,28 +16,29 @@ namespace ToyRobotLibrary
             try
             {
                 string[] command = instructions.Split(' ');
-                if (command[0] == "PLACE" && command.Length > 1)
+                string cmd = command[0].Trim().ToUpper();
+                if (cmd == "PLACE" && command.Length > 1)
                 {
                     var args = command[1].Split(',');
                     if (args.Length == 2)
-                        commandObj = new PLACECommand(Int32.Parse(args[0]),
-                                                   Int32.Parse(args[1]));
+                        commandObj = new PLACECommand(Int32.Parse(args[0].Trim()),
+                                                   Int32.Parse(args[1].Trim()));
                     if (args.Length == 3)
-                        commandObj = new PLACECommand(Int32.Parse(args[0]),
-                                                   Int32.Parse(args[1]),
-                                                   Enum.Parse<DIRECTION>(args[2]));
+                        commandObj = new PLACECommand(Int32.Parse(args[0].Trim()),
+                                                   Int32.Parse(args[1].Trim()),
+                                                   Enum.Parse<DIRECTION>(args[2].Trim().ToUpper()));
                 }
 
-                else if (command[0] == "MOVE")
+                else if (cmd == "MOVE")
                     commandObj = new MOVECommand();
 
-                else if (command[0] == "LEFT")
+                else if (cmd == "LEFT")
                     commandObj = new LEFTCommand();
 
-                else if (command[0] == "RIGHT")
+                else if (cmd == "RIGHT")
                     commandObj = new RIGHTCommand();
 
-                else if (command[0] == "REPORT")
+                else if (cmd == "REPORT")
                     commandObj = new REPORTCommand();
             }
             catch

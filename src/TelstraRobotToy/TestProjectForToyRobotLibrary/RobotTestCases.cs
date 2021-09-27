@@ -238,7 +238,7 @@ namespace TestProjectForToyRobotLibrary
             List<string> expected = new List<string>()
                                 {
                                     ROBOTRESPONSE.ROBOT_NOT_PLACED_RESPONSE,
-                                    ROBOTRESPONSE.INVALID_COMMAND_RESPONSE,
+                                    ROBOTRESPONSE.COMMAND_EXECUTED,
                                     ROBOTRESPONSE.COMMAND_EXECUTED,
                                     ROBOTRESPONSE.COMMAND_EXECUTED,
                                     ROBOTRESPONSE.COMMAND_EXECUTED,
@@ -286,7 +286,7 @@ namespace TestProjectForToyRobotLibrary
             List<string> expected = new List<string>()
                                 {
                                     ROBOTRESPONSE.ROBOT_NOT_PLACED_RESPONSE,
-                                    ROBOTRESPONSE.INVALID_COMMAND_RESPONSE,
+                                    ROBOTRESPONSE.COMMAND_EXECUTED,
                                     ROBOTRESPONSE.COMMAND_EXECUTED,
                                     ROBOTRESPONSE.COMMAND_EXECUTED,
                                     ROBOTRESPONSE.COMMAND_EXECUTED,

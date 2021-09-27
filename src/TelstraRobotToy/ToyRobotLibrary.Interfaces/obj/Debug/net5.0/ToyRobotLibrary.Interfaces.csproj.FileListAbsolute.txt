@@ -10,3 +10,15 @@ D:\Projects\TelstraPurpleHiring\src\TelstraRobotToy\ToyRobotLibrary.Interfaces\b
 D:\Projects\TelstraPurpleHiring\src\TelstraRobotToy\ToyRobotLibrary.Interfaces\obj\Debug\net5.0\ToyRobotLibrary.Interfaces.dll
 D:\Projects\TelstraPurpleHiring\src\TelstraRobotToy\ToyRobotLibrary.Interfaces\obj\Debug\net5.0\ref\ToyRobotLibrary.Interfaces.dll
 D:\Projects\TelstraPurpleHiring\src\TelstraRobotToy\ToyRobotLibrary.Interfaces\obj\Debug\net5.0\ToyRobotLibrary.Interfaces.pdb
+D:\Projects\TelstraPurpleHiring\repos\ToyRobotApplication\src\TelstraRobotToy\ToyRobotLibrary.Interfaces\bin\Debug\net5.0\ToyRobotLibrary.Interfaces.deps.json
+D:\Projects\TelstraPurpleHiring\repos\ToyRobotApplication\src\TelstraRobotToy\ToyRobotLibrary.Interfaces\bin\Debug\net5.0\ToyRobotLibrary.Interfaces.dll
+D:\Projects\TelstraPurpleHiring\repos\ToyRobotApplication\src\TelstraRobotToy\ToyRobotLibrary.Interfaces\bin\Debug\net5.0\ref\ToyRobotLibrary.Interfaces.dll
+D:\Projects\TelstraPurpleHiring\repos\ToyRobotApplication\src\TelstraRobotToy\ToyRobotLibrary.Interfaces\bin\Debug\net5.0\ToyRobotLibrary.Interfaces.pdb
+D:\Projects\TelstraPurpleHiring\repos\ToyRobotApplication\src\TelstraRobotToy\ToyRobotLibrary.Interfaces\obj\Debug\net5.0\ToyRobotLibrary.Interfaces.csproj.AssemblyReference.cache
+D:\Projects\TelstraPurpleHiring\repos\ToyRobotApplication\src\TelstraRobotToy\ToyRobotLibrary.Interfaces\obj\Debug\net5.0\ToyRobotLibrary.Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\TelstraPurpleHiring\repos\ToyRobotApplication\src\TelstraRobotToy\ToyRobotLibrary.Interfaces\obj\Debug\net5.0\ToyRobotLibrary.Interfaces.AssemblyInfoInputs.cache
+D:\Projects\TelstraPurpleHiring\repos\ToyRobotApplication\src\TelstraRobotToy\ToyRobotLibrary.Interfaces\obj\Debug\net5.0\ToyRobotLibrary.Interfaces.AssemblyInfo.cs
+D:\Projects\TelstraPurpleHiring\repos\ToyRobotApplication\src\TelstraRobotToy\ToyRobotLibrary.Interfaces\obj\Debug\net5.0\ToyRobotLibrary.Interfaces.csproj.CoreCompileInputs.cache
+D:\Projects\TelstraPurpleHiring\repos\ToyRobotApplication\src\TelstraRobotToy\ToyRobotLibrary.Interfaces\obj\Debug\net5.0\ToyRobotLibrary.Interfaces.dll
+D:\Projects\TelstraPurpleHiring\repos\ToyRobotApplication\src\TelstraRobotToy\ToyRobotLibrary.Interfaces\obj\Debug\net5.0\ref\ToyRobotLibrary.Interfaces.dll
+D:\Projects\TelstraPurpleHiring\repos\ToyRobotApplication\src\TelstraRobotToy\ToyRobotLibrary.Interfaces\obj\Debug\net5.0\ToyRobotLibrary.Interfaces.pdb

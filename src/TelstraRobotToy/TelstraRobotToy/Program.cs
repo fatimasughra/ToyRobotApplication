@@ -18,7 +18,7 @@ namespace TelstraRobotToy
                 
                 inputCommand = Console.ReadLine();
 
-                if (inputCommand == "STOP")
+                if (inputCommand.Trim().ToUpper() == "STOP")
                     break;
 
                 var action = maxRobot.Execute(inputCommand);

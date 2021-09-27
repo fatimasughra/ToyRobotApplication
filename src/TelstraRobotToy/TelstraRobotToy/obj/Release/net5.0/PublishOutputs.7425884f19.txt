@@ -1,0 +1,9 @@
+D:\Projects\TelstraPurpleHiring\repos\ToyRobotApplication\New folder\executables\TelstraRobotToy.exe
+D:\Projects\TelstraPurpleHiring\repos\ToyRobotApplication\New folder\executables\TelstraRobotToy.dll
+D:\Projects\TelstraPurpleHiring\repos\ToyRobotApplication\New folder\executables\TelstraRobotToy.deps.json
+D:\Projects\TelstraPurpleHiring\repos\ToyRobotApplication\New folder\executables\TelstraRobotToy.runtimeconfig.json
+D:\Projects\TelstraPurpleHiring\repos\ToyRobotApplication\New folder\executables\TelstraRobotToy.pdb
+D:\Projects\TelstraPurpleHiring\repos\ToyRobotApplication\New folder\executables\ToyRobotLibrary.dll
+D:\Projects\TelstraPurpleHiring\repos\ToyRobotApplication\New folder\executables\ToyRobotLibrary.Interfaces.dll
+D:\Projects\TelstraPurpleHiring\repos\ToyRobotApplication\New folder\executables\ToyRobotLibrary.pdb
+D:\Projects\TelstraPurpleHiring\repos\ToyRobotApplication\New folder\executables\ToyRobotLibrary.Interfaces.pdb

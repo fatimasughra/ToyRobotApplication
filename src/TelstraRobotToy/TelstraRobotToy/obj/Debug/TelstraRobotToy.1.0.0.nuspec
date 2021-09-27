@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>TelstraRobotToy</id>
+    <version>1.0.0</version>
+    <authors>TelstraRobotToy</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net5.0">
+        <dependency id="ToyRobotLibrary" version="1.0.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\Projects\TelstraPurpleHiring\repos\ToyRobotApplication\src\TelstraRobotToy\TelstraRobotToy\bin\Debug\net5.0\TelstraRobotToy.runtimeconfig.json" target="lib\net5.0\TelstraRobotToy.runtimeconfig.json" />
+    <file src="D:\Projects\TelstraPurpleHiring\repos\ToyRobotApplication\src\TelstraRobotToy\TelstraRobotToy\bin\Debug\net5.0\TelstraRobotToy.dll" target="lib\net5.0\TelstraRobotToy.dll" />
+  </files>
+</package>

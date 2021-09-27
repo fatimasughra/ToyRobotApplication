@@ -1,0 +1,9 @@
+D:\Projects\TelstraPurpleHiring\repos\ToyRobotApplication\src\TelstraRobotToy\TelstraRobotToy\bin\Debug\net5.0\publish\TelstraRobotToy.exe
+D:\Projects\TelstraPurpleHiring\repos\ToyRobotApplication\src\TelstraRobotToy\TelstraRobotToy\bin\Debug\net5.0\publish\TelstraRobotToy.dll
+D:\Projects\TelstraPurpleHiring\repos\ToyRobotApplication\src\TelstraRobotToy\TelstraRobotToy\bin\Debug\net5.0\publish\TelstraRobotToy.deps.json
+D:\Projects\TelstraPurpleHiring\repos\ToyRobotApplication\src\TelstraRobotToy\TelstraRobotToy\bin\Debug\net5.0\publish\TelstraRobotToy.runtimeconfig.json
+D:\Projects\TelstraPurpleHiring\repos\ToyRobotApplication\src\TelstraRobotToy\TelstraRobotToy\bin\Debug\net5.0\publish\TelstraRobotToy.pdb
+D:\Projects\TelstraPurpleHiring\repos\ToyRobotApplication\src\TelstraRobotToy\TelstraRobotToy\bin\Debug\net5.0\publish\ToyRobotLibrary.dll
+D:\Projects\TelstraPurpleHiring\repos\ToyRobotApplication\src\TelstraRobotToy\TelstraRobotToy\bin\Debug\net5.0\publish\ToyRobotLibrary.Interfaces.dll
+D:\Projects\TelstraPurpleHiring\repos\ToyRobotApplication\src\TelstraRobotToy\TelstraRobotToy\bin\Debug\net5.0\publish\ToyRobotLibrary.pdb
+D:\Projects\TelstraPurpleHiring\repos\ToyRobotApplication\src\TelstraRobotToy\TelstraRobotToy\bin\Debug\net5.0\publish\ToyRobotLibrary.Interfaces.pdb

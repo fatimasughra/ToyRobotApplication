@@ -52,11 +52,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\TelstraPurpleHiring\\src\\TelstraRobotToy\\TelstraRobotToy\\TelstraRobotToy.csproj",
+      "projectUniqueName": "D:\\Projects\\TelstraPurpleHiring\\repos\\ToyRobotApplication\\src\\TelstraRobotToy\\TelstraRobotToy\\TelstraRobotToy.csproj",
       "projectName": "TelstraRobotToy",
-      "projectPath": "D:\\Projects\\TelstraPurpleHiring\\src\\TelstraRobotToy\\TelstraRobotToy\\TelstraRobotToy.csproj",
+      "projectPath": "D:\\Projects\\TelstraPurpleHiring\\repos\\ToyRobotApplication\\src\\TelstraRobotToy\\TelstraRobotToy\\TelstraRobotToy.csproj",
       "packagesPath": "C:\\Users\\Fatima\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\TelstraPurpleHiring\\src\\TelstraRobotToy\\TelstraRobotToy\\obj\\",
+      "outputPath": "D:\\Projects\\TelstraPurpleHiring\\repos\\ToyRobotApplication\\src\\TelstraRobotToy\\TelstraRobotToy\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -79,8 +79,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "D:\\Projects\\TelstraPurpleHiring\\src\\TelstraRobotToy\\ToyRobotLibrary\\ToyRobotLibrary.csproj": {
-              "projectPath": "D:\\Projects\\TelstraPurpleHiring\\src\\TelstraRobotToy\\ToyRobotLibrary\\ToyRobotLibrary.csproj"
+            "D:\\Projects\\TelstraPurpleHiring\\repos\\ToyRobotApplication\\src\\TelstraRobotToy\\ToyRobotLibrary\\ToyRobotLibrary.csproj": {
+              "projectPath": "D:\\Projects\\TelstraPurpleHiring\\repos\\ToyRobotApplication\\src\\TelstraRobotToy\\ToyRobotLibrary\\ToyRobotLibrary.csproj"
             }
           }
         }

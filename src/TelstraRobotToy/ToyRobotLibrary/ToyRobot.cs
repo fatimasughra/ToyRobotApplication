@@ -30,9 +30,10 @@ namespace ToyRobotLibrary
 		public ToyRobot()
 		{
 			MyProcessor = new Processor();
-			Console.WriteLine("Hello! I am Max, the Toy Robot. I am capable to take the commands as follows:" +
-				"\r\nPLACE X,Y,DIRECTION" +
-				"\r\nMOVE\r\nLEFT\r\nRIGHT\r\nREPORT\r\nSTOP\r\nWhat would you like me to do?");
+			Console.WriteLine("Hello! I am Max, the Toy Robot." +
+				"\r\n\r\nGuess what? I am not case-sensitive. \r\nI am capable to take the commands as follows:" +
+				"\r\n\tPLACE X,Y,DIRECTION" +
+				"\r\n\tMOVE\r\n\tLEFT\r\n\tRIGHT\r\n\tREPORT\r\n\tSTOP\r\nWhat would you like me to do?");
 
 			_currentPosition = new RobotPosition();
 		}

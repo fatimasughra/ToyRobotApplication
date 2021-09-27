@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "TelstraRobotToy/1.0.0": {
+        "dependencies": {
+          "ToyRobotLibrary": "1.0.0"
+        },
+        "runtime": {
+          "TelstraRobotToy.dll": {}
+        }
+      },
+      "ToyRobotLibrary/1.0.0": {
+        "dependencies": {
+          "ToyRobotLibrary.Interfaces": "1.0.0"
+        },
+        "runtime": {
+          "ToyRobotLibrary.dll": {}
+        }
+      },
+      "ToyRobotLibrary.Interfaces/1.0.0": {
+        "runtime": {
+          "ToyRobotLibrary.Interfaces.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TelstraRobotToy/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ToyRobotLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ToyRobotLibrary.Interfaces/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

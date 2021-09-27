@@ -30,7 +30,8 @@ namespace ToyRobotLibrary
 
 		public virtual IRobotAction Action(ref IRobotPosition currentPosition)
 		{
-			currentPosition = _newPosition;
+			if(_newPosition is not null)
+				currentPosition = _newPosition;
 			return GetCommandExecutedAction();
 		}
 		protected virtual IRobotAction GetCommandExecutedAction()
